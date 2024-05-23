@@ -1,0 +1,7 @@
+C:\Users\arthu\source\repos\Lab6\Lab6\bin\Lab6.dll.config
+C:\Users\arthu\source\repos\Lab6\Lab6\bin\Lab6.dll
+C:\Users\arthu\source\repos\Lab6\Lab6\bin\Lab6.pdb
+C:\Users\arthu\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Lab6\Lab6\obj\Debug\Lab6.dll
+C:\Users\arthu\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
